@@ -4,7 +4,7 @@ Feed Reader Testing. Test Driven Development with Jasmine
 ###Overview
 This project uses [Jasmine](http://jasmine.github.io/) to test the [google feed reader api](https://developers.google.com/feed/v1/)<br>
 Additional libraries and extensions used were [jQuery](http://jquery.com/) and [Jasmine-jquery](https://github.com/velesin/jasmine-jquery)<br>
-This project can be viewed at http://projects.jordanyong.com/udacity-jasmine
+This project can be viewed at http://blog.jordanyong.com/udacity-jasmine
 
 ###Test
 - Feeds
